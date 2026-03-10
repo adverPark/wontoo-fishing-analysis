@@ -12,9 +12,8 @@ wheels/
 # Environment
 .env
 
-# Data & output
+# Data (대용량 JSON/자막/썸네일)
 data/
-output/
 
 # OS
 .DS_Store
